@@ -1,7 +1,3 @@
-"""
-hw05_part0.py (20%)
-"""
-
 import numpy as np
 import zipfile
 import pandas as pd

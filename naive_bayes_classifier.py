@@ -1,7 +1,3 @@
-"""
-hw05_part1.py (15%)
-"""
-
 import numpy as np
 from sklearn.naive_bayes import MultinomialNB
 import joblib
