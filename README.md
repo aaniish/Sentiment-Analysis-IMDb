@@ -24,10 +24,6 @@ This project implements a **sentiment classification model** for IMDb movie revi
 - `model1.obj` - Saved Naïve Bayes model.
 - `model2.obj` - Saved ANN model.
 
-## Results
-- The **ANN model outperformed Naïve Bayes**, achieving a **7.7% improvement in accuracy** and a **36% reduction in error rate**.
-- Demonstrates **NLP-driven sentiment classification** and **AI model optimization** techniques.
-
 ## Key Features
 ✅ **Natural Language Processing (NLP)** for sentiment analysis  
 ✅ **AI Model Optimization** using **Keras Tuner**  
